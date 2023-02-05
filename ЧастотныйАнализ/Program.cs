@@ -41,7 +41,7 @@ namespace major
                  * текущему элементу массива
                  */
             }
-            Console.WriteLine($"Число, которое больше всего повторяется: " +maxCountKey+". Количество его повтора:"+maxCount);
+            Console.WriteLine($"Число, которое больше всего повторяется: " + maxCountKey + ". Количество его повтора:" + maxCount);
         }
     }
 }
